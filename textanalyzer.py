@@ -37,7 +37,7 @@ def analyze_text(file_path):
     for word in words:
         if word not in stopwords:
             filtered_words.append(word)
-            
+
     # Step 5: Word count
     word_count = len(filtered_words)
 
