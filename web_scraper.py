@@ -69,7 +69,7 @@ def scrape_multiple(base_url, pages):
 # ---- RUN ----
 
 # Example 1: Single page
-url = "https://example.com"   # replace with real site
+url = "https://www.nytimes.com/international/"   # replace with real site
 titles = scrape_single(url)
 
 # Save results

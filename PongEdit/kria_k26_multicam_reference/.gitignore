@@ -1,0 +1,4 @@
+build/
+host/xdma_rgb_capture
+vitis/linux_control/kria_multicam_ctl
+
